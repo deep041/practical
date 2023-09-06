@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.row .image {
+    width: 30px;
+}
